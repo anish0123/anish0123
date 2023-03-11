@@ -7,4 +7,4 @@ I am currently searching for internship opportunities as software developer for 
 Please reach me through my email : <a href = "mailto: anishmhn@hotmail.com">anishmhn@hotmail.com</a>
 
 ### Language and Tools:
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,java,kotlin,nodejs,react,git,c,mysql)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,java,kotlin,nodejs,react,git,c,mysql, figma)](https://skills.thijs.gg)
