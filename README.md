@@ -8,3 +8,7 @@ Please reach me through my email : <a href = "mailto: anishmhn@hotmail.com">anis
 
 ### Language and Tools:
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,java,kotlin,nodejs,react,git,c,mysql,figma)](https://skills.thijs.gg)
+
+<br>
+
+![snake gif] (https://github.com/anish0123/anish0123/blob/output/github-contribution-grid-snake.svg)
