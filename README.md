@@ -11,4 +11,4 @@ Please reach me through my email : <a href = "mailto: anishmhn@hotmail.com">anis
 
 <br>
 
-![snake gif] (https://github.com/anish0123/anish0123/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/anish0123/anish0123/blob/output/github-contribution-grid-snake.svg)
