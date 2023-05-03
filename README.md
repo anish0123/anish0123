@@ -27,12 +27,20 @@ Please reach me through my email : <a href = "mailto: anishmhn@hotmail.com">anis
  </p>
                                                             
 
-<h2 align = "center" >Language and Tools: </h2>
+<h2 align = "center" >Language and Tools </h2>
 
 <p align = "center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,java,nodejs,express,azure,react,c,mysql,sqlite,swift,kotlin,androidstudio,linux,figma,git,github,gitlab,postman" />
   </a>
+  
+  <h2 align = "center"> Contribution and Streaks </h2>
+  <div align="center">
+    <Img src="http://github-readme-streak-stats.herokuapp.com?user=anish0123&theme=dark"
+         />
+    <Img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anish0123&layout=compact&theme=vision-friendly-dark" />
+    </div>
+  
     
 
 </p>
