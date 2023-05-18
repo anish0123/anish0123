@@ -38,7 +38,7 @@ Please reach me through my email : <a href = "mailto: anishmhn@hotmail.com">anis
   <div align="center">
     <Img src="https://github-readme-streak-stats.herokuapp.com?user=anish0123&theme=dark"
         width="400px" />
-    <Img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anish0123&layout=compact&theme=vision-friendly-dark"  width="286px" />
+    <Img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anish0123&layout=compact&theme=dark"  width="286px" />
     </div>
   
     
