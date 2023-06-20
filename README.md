@@ -31,7 +31,7 @@ Please reach me through my email : <a href = "mailto: anishmhn@hotmail.com">anis
 
 <p align = "center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,java,nodejs,express,azure,react,c,mysql,sqlite,swift,kotlin,androidstudio,linux,figma,git,github,gitlab,postman" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,java,nodejs,express,azure,react,c,mysql,sqlite,mongodb,swift,kotlin,androidstudio,linux,figma,git," />
   </a>
   
   <h2 align = "center"> Contribution and Streaks </h2>
