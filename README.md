@@ -18,10 +18,10 @@
 </h1>
 
 </p>
-Hi, I am Anish Maharjan, a second year engineering student of Metropolia University of Applied Sciences, Finland.
+Hi, I am Anish Maharjan, a third-year engineering student at Metropolia University of Applied Sciences, Finland.
 
 <br>
-I am currently searching for internship opportunities as software developer for web and mobile applications to gain more knowledge and experiences.
+I am currently searching for internship opportunities as a software developer for web and mobile applications to gain more knowledge and experience.
 Please reach me through my email : <a href = "mailto: anishmhn@hotmail.com">anishmhn@hotmail.com</a>
  
  </p>
