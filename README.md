@@ -45,11 +45,4 @@ Please reach me through my email : <a href = "mailto: anishmhn@hotmail.com">anis
 
 </p>
 
-<br>
-
- <h2 align="center"> Small animation of snake eating my git contribution </h2>
-
-![snake gif](https://github.com/anish0123/anish0123/blob/output/github-contribution-grid-snake.svg)
-
-<br>
 
